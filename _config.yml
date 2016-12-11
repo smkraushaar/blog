@@ -1,6 +1,6 @@
 # Site settings
 title: SMKBlog
-email: your-email@domain.com
+email: smkraushaar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog about geology and shit. 
 baseurl: "" # the subpath of your site, e.g. /blog/
